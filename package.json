@@ -1,0 +1,23 @@
+{
+  "name": "asset-management",
+  "version": "1.0.0",
+  "description": "Static marketing website for Red Beacon Asset Management.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honlunpin/assetmanagement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honlunpin/assetmanagement/issues"
+  },
+  "homepage": "https://github.com/honlunpin/assetmanagement#readme",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
